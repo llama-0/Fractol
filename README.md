@@ -15,6 +15,10 @@ make
 
 You can place `Julia` or `Burning-ship` instead of `Mandelbrot` with unsurprising result
 
+## Instruments
+
+minilibx_macos library used for graphics, OpenCL for parallel computing
+
 ## Basic fractals
 
 ### Mandelbrot
